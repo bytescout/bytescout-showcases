@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Display PDF in browser and select area using PDF.js
 \Generate And Check QRCode With Image (C#)
