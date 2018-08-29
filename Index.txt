@@ -9,6 +9,8 @@
 \Invoice Parsing (VB.NET)
 \Make Large PDF Searchable in Parallel Processing (C#)
 \Make Large PDF Searchable in Parallel Processing (VB.NET)
+\Read PDF with Image Hindi Text (C#)
+\Read PDF with Image Hindi Text (VB.NET)
 \Regex Search And Highlight In PDF Document (C#)
 \Regex Search And Highlight In PDF Document (VB.NET)
 \Regex Search In PDF And Highlight On Rendered Page (C#)
