@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Display PDF in browser and select area using PDF.js
+\Extract Text From Large PDF Document in Parallel Processing (C#)
 \Generate And Check QRCode With Image (C#)
 \Generate And Check QRCode With Image (VB.NET)
 \Generate Barcodes From Spreadsheet (VBScript)
