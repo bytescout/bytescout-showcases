@@ -1,36 +1,36 @@
 ## Index of source code examples:
 
 \Convert Scanned PDF to Excel
-\Display PDF in browser and select area using PDF.js
+\Display PDF in Browser and Select Area Using PDF.js
 \Extract Text From Large PDF Document in Parallel Processing
-\Generate and check QR Code barcode with image inside
+\Generate and Check QR Code Barcode with Image Inside
 \Generate Barcodes From Spreadsheet
 \Human Assisted Invoice Parsing
-\Make large text searchable PDF using Parallel Processing
-\Read invoice and parse invoice
-\Read PDF with scanned image and Hindi text
-\Regular expression search and highlight in PDF
-\Regular expression search In PDF And Highlight On Rendered Page
+\Make Large Text Searchable PDF Using Parallel Processing
+\Parse Invoice
+\Read PDF with Scanned Image and Hindi Text
+\Regular Expression Search and Highlight in PDF
+\Regular Expression Search In PDF And Highlight On Rendered Page
 \Select Region And Perform OCR
-\Slice PDF by horizontal lines inside
+\Slice PDF by Horizontal Lines Inside
 \Convert Scanned PDF to Excel\C#
 \Convert Scanned PDF to Excel\VB.NET
-\Display PDF in browser and select area using PDF.js\Javascript and PDF.js v1.x
-\Display PDF in browser and select area using PDF.js\Javascript and PDF.js v2.x
+\Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v1.x
+\Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v2.x
 \Extract Text From Large PDF Document in Parallel Processing\C#
-\Generate and check QR Code barcode with image inside\C#
-\Generate and check QR Code barcode with image inside\VB.NET
+\Generate and Check QR Code Barcode with Image Inside\C#
+\Generate and Check QR Code Barcode with Image Inside\VB.NET
 \Generate Barcodes From Spreadsheet\VBScript
 \Human Assisted Invoice Parsing\C#
-\Make large text searchable PDF using Parallel Processing\C#
-\Make large text searchable PDF using Parallel Processing\VB.NET
-\Read invoice and parse invoice\C#
-\Read invoice and parse invoice\VB.NET
-\Read PDF with scanned image and Hindi text\C#
-\Read PDF with scanned image and Hindi text\VB.NET
-\Regular expression search and highlight in PDF\C#
-\Regular expression search and highlight in PDF\VB.NET
-\Regular expression search In PDF And Highlight On Rendered Page\C#
+\Make Large Text Searchable PDF Using Parallel Processing\C#
+\Make Large Text Searchable PDF Using Parallel Processing\VB.NET
+\Parse Invoice\C#
+\Parse Invoice\VB.NET
+\Read PDF with Scanned Image and Hindi Text\C#
+\Read PDF with Scanned Image and Hindi Text\VB.NET
+\Regular Expression Search and Highlight in PDF\C#
+\Regular Expression Search and Highlight in PDF\VB.NET
+\Regular Expression Search In PDF And Highlight On Rendered Page\C#
 \Select Region And Perform OCR\C#
-\Slice PDF by horizontal lines inside\C#
-\Slice PDF by horizontal lines inside\VB.NET
+\Slice PDF by Horizontal Lines Inside\C#
+\Slice PDF by Horizontal Lines Inside\VB.NET
