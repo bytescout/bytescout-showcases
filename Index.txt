@@ -6,7 +6,7 @@
 \Generate and Check QR Code Barcode with Image Inside
 \Generate Barcodes From Spreadsheet
 \Human Assisted Invoice Parsing
-\Make Large Text Searchable PDF Using Parallel Processing
+\Make Large PDF Document Searchable Using Parallel Processing
 \Parse Invoice
 \Read PDF with Scanned Image and Hindi Text
 \Regular Expression Search and Highlight in PDF
@@ -22,8 +22,8 @@
 \Generate and Check QR Code Barcode with Image Inside\VB.NET
 \Generate Barcodes From Spreadsheet\VBScript
 \Human Assisted Invoice Parsing\C#
-\Make Large Text Searchable PDF Using Parallel Processing\C#
-\Make Large Text Searchable PDF Using Parallel Processing\VB.NET
+\Make Large PDF Document Searchable Using Parallel Processing\C#
+\Make Large PDF Document Searchable Using Parallel Processing\VB.NET
 \Parse Invoice\C#
 \Parse Invoice\VB.NET
 \Read PDF with Scanned Image and Hindi Text\C#
