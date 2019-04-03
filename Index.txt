@@ -5,6 +5,7 @@
 \Extract Text From Large PDF Document in Parallel Processing
 \Generate and Check QR Code Barcode with Image Inside
 \Generate Barcodes From Spreadsheet
+\Hide Images In PDF Document
 \Human Assisted Invoice Parsing
 \Make Large PDF Document Searchable Using Parallel Processing
 \Parse Invoice
@@ -21,6 +22,7 @@
 \Generate and Check QR Code Barcode with Image Inside\C#
 \Generate and Check QR Code Barcode with Image Inside\VB.NET
 \Generate Barcodes From Spreadsheet\VBScript
+\Hide Images In PDF Document\C#
 \Human Assisted Invoice Parsing\C#
 \Make Large PDF Document Searchable Using Parallel Processing\C#
 \Make Large PDF Document Searchable Using Parallel Processing\VB.NET
