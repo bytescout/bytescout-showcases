@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Convert Scanned PDF to Excel
+\Create side by side manifest
 \Display PDF in Browser and Select Area Using PDF.js
 \Extract Text From Large PDF Document in Parallel Processing
 \Generate and Check QR Code Barcode with Image Inside
@@ -16,6 +17,7 @@
 \Slice PDF by Horizontal Lines Inside
 \Convert Scanned PDF to Excel\C#
 \Convert Scanned PDF to Excel\VB.NET
+\Create side by side manifest\VB6
 \Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v1.x
 \Display PDF in Browser and Select Area Using PDF.js\Javascript and PDF.js v2.x
 \Extract Text From Large PDF Document in Parallel Processing\C#
