@@ -13,6 +13,7 @@
 \Read PDF with Scanned Image and Hindi Text
 \Regular Expression Search and Highlight in PDF
 \Regular Expression Search In PDF And Highlight On Rendered Page
+\Remove Text From Selected Regions
 \Select Region And Perform OCR
 \Slice PDF by Horizontal Lines Inside
 \Convert Scanned PDF to Excel\C#
@@ -35,6 +36,7 @@
 \Regular Expression Search and Highlight in PDF\C#
 \Regular Expression Search and Highlight in PDF\VB.NET
 \Regular Expression Search In PDF And Highlight On Rendered Page\C#
+\Remove Text From Selected Regions\C#
 \Select Region And Perform OCR\C#
 \Slice PDF by Horizontal Lines Inside\C#
 \Slice PDF by Horizontal Lines Inside\VB.NET
