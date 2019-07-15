@@ -10,6 +10,7 @@
 \Human Assisted Invoice Parsing
 \Make Large PDF Document Searchable Using Parallel Processing
 \Parse Invoice
+\PDF Data Remover Tool
 \Read PDF with Scanned Image and Hindi Text
 \Regular Expression Search and Highlight in PDF
 \Regular Expression Search In PDF And Highlight On Rendered Page
@@ -31,6 +32,7 @@
 \Make Large PDF Document Searchable Using Parallel Processing\VB.NET
 \Parse Invoice\C#
 \Parse Invoice\VB.NET
+\PDF Data Remover Tool\C#
 \Read PDF with Scanned Image and Hindi Text\C#
 \Read PDF with Scanned Image and Hindi Text\VB.NET
 \Regular Expression Search and Highlight in PDF\C#
